@@ -33,5 +33,6 @@ build/
 .vscode/
 
 frontend/youtube-clone-ui/node_modules/
+frontend/youtube-clone-ui/node/
 
 
